@@ -9,7 +9,7 @@
 use std::process;
 
 fn main() {
-    // put the values on this line to test 
+    // mock up data values to test 
     println!("input = {}, result = {}", "121", is_palindrome("121"));
     println!("input = {}, result = {}", "Anna", is_palindrome("Anna"));
     println!("input = {}, result = {}", "end", is_palindrome("END"));
